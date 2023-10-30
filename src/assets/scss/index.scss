@@ -1,0 +1,115 @@
+#index {
+  color: #d3d6dd;
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transform-origin: left top;
+  overflow: hidden;
+  background-image: url("../assets/bgg.png");
+  background-size: cover;
+  background-position: center center;
+  .bg {
+    width: 100%;
+    height: 100%;
+  }
+  .host-body {
+    position: relative;
+    .dv-dec-10,
+    .dv-dec-10-s {
+      width: 33.3%;
+      height: 5px;
+    }
+    .dv-dec-10-s {
+      transform: rotateY(180deg);
+    }
+    .dv-dec-8 {
+      width: 200px;
+      height: 50px;
+    }
+    .dv-border-box-8{
+      padding: 30px;
+    }
+    .boxlist{
+      background-image: url("../assets/imgs/box.png");
+     height: 105px;
+    background-size: 100% 100%;
+    padding-top: 27px;
+    padding-right: 24px;
+      // position: relative;
+
+    }
+    .top {
+      // position: absolute;
+      width: 500px;
+      margin: 0 auto;
+      // background-color: #FFFFFF;
+      height: 39px;
+      background-image: url("../assets/imgs/2.png");
+
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      .top-right{
+        // height: 100%;
+        position: absolute;
+        right: 35px;
+        top: 34px;
+        padding: 5px 0 20px;
+        display: flex;
+        font-size: 14px;
+        font-family: PingFangSC-Regular, PingFang SC;
+        font-weight: 400;
+        color: #FFFFFF;
+        text-align: right;
+        img{
+          width: 27px;
+          height: 27px;
+          margin-right: 10px;
+          margin-top: -4px;
+        }
+        .date{
+          font-size: 20px;
+          font-family: Microsoft YaHei;
+          font-weight: 400;
+          line-height: 22px;
+          color: #229FD6;
+        }
+      }
+    }
+    .body-box {
+      
+      position: relative;
+      display: flex;
+      flex-wrap: wrap;
+      // justify-content: space-between;
+      margin: 0px 30px;
+      z-index: 999;
+      .item{
+        margin-bottom: 25px;
+        // background-image: url("../assets/imgs/itemBg.png");
+        background-size: 100% 100%;
+        position: relative;
+        z-index: 999;
+        .itemTitle{
+          font-size: 24px;
+          font-family: FZDaHei-B02S;
+          font-weight: 400;
+          color: white;
+          display: flex;
+          align-items: center;
+          letter-spacing: 3px;
+          img{
+            margin-right: 15px;
+          }
+        }
+        .itemDate{
+          position: absolute;
+          right: 30px;
+          top: 30px;
+        }
+      }
+    }
+  }
+}
