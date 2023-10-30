@@ -22,7 +22,7 @@
 4. 命令行执行 npm run serve 启动
 5. 命令行执行 npm run  build:prod 打包
 # 📃 功能截图
- <img src="https://znunwm.top/loveplus/WechatIMG18.jpg" width = "1260" height="5700" style="float:left; margin-left: 35px;"/>
+ <img src="https://znunwm.top/loveplus/WechatIMG18.jpg" width = "100%" height="100%"/>
 
 # 关于后台
 ```
