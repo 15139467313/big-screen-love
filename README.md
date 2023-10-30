@@ -1,5 +1,7 @@
 # 在线查看 [链接地址](https://znunwm.top/loveplus/bigscreen/index.html)
 
+# 作者网站 [链接地址](https://znunwm.top)
+
 - 一个基于 Vue、Datav、Echart 框架的 爱情数据大屏项目
 - 项目需要全屏展示（按 F11）
 - 项目部分区域使用了全局注册方式，增加了打包体积，在实际运用中请使用 按需引入。
