@@ -1,6 +1,6 @@
-# 在线查看 [链接地址](https://znunwm.top/loveplus/bigscreen/index.html)
+# 在线查看 [链接地址https://znunwm.top/loveplus/bigscreen/index.html](https://znunwm.top/loveplus/bigscreen/index.html)
 
-### 作者网站 [链接地址](https://znunwm.top)
+### 作者网站 [链接地址https://znunwm.top](https://znunwm.top)
 
 - 一个基于 Vue、Datav、Echart 框架的 爱情数据大屏项目
 - 项目需要全屏展示（按 F11）
@@ -16,7 +16,7 @@
 
 快速开始
 
-- 1. 拉取项目[https://gitee.com/wenroudoubinanhai/czh-uni.git](https://github.com/15139467313/big-screen-love.git)；
+- 1. 拉取项目[[https://gitee.com/wenroudoubinanhai/czh-uni.git](https://github.com/15139467313/big-screen-love.git)](https://github.com/15139467313/big-screen-love.git)；
 - 2. 通过vscode导入项目；
 - 3. 命令行执行 npm install 安装依赖
 - 4. 命令行执行 npm run serve 启动
